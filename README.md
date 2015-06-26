@@ -4,7 +4,7 @@ Nice approach for defining properties with getters and setters in CoffeeScript.
 
 You can use `property` function with nested getter and/or setter. Or just use `setter` and `getter` directly. In both cases you should pass property name as the first argument.
 
-```coffescript
+```coffeescript
   class Woman
     constructor: (name, age) ->
       @name = name
