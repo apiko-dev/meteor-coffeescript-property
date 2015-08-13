@@ -2,7 +2,7 @@
 
 Nice approach for defining properties with getters and setters in CoffeeScript.
 
-Made by [![Professional Meteor Development Studio](http://s30.postimg.org/jfno1g71p/jss_xs.png)](https://jssolutionsdev.com) - [Professional Meteor Development Company](https://jssolutionsdev.com)
+Made by [![Professional Meteor Development Studio](http://s30.postimg.org/jfno1g71p/jss_xs.png)](http://jssolutionsdev.com) - [Professional Meteor Development Company](http://jssolutionsdev.com)
 
 You can use `property` function with nested getter and/or setter. Or just use `setter` and `getter` directly. In both cases you should pass property name as the first argument.
 
